@@ -2,3 +2,4 @@ first commit
 2nd commit
 bug_fix
 f1
+f2
